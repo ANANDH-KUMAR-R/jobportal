@@ -1,0 +1,25 @@
+{
+  "Application": [
+    {
+      "id": "d02a",
+      "jobtitle": "React",
+      "companyName": "TATA",
+      "date": "2024-12-11",
+      "status": "asc"
+    },
+    {
+      "jobtitle": "Front end",
+      "companyName": "TCS",
+      "date": "2021-02-21",
+      "status": "Applied",
+      "id": "fca1"
+    },
+    {
+      "id": "a0a6",
+      "jobtitle": "developer",
+      "companyName": "ZOHO",
+      "date": "2024-12-25",
+      "status": "Reject"
+    }
+  ]
+}
